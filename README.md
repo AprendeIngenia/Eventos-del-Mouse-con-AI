@@ -3,7 +3,7 @@ Hola chicos en este repositorio encontraran el codigo fuente para utilizar los e
 
 ### Explicacion:
 - En el archivo Mouse.py encontraras el codigo fuente con el cual podras controlar las siguientes redes neuronales:
-  - [x] Deteccion de rostros de Mediapipe con el click izquierdo..
+  - [x] Deteccion de rostros de Mediapipe con el click izquierdo.
   - [x] Malla facial de MediaPipe con el click derecho.
   - [x] Deteccion y seguimiento de manos de MediaPipe con el click del scroll.
 - Si no te quedo muy claro te dejo este [Video Explicativo](https://youtu.be/ohQuCbidlNc) donde te muestro el tutorial de todo el codigo.
