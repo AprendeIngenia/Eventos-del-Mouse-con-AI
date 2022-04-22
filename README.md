@@ -12,7 +12,7 @@ Hola chicos en este repositorio encontraran el codigo fuente para utilizar los e
 
 ### Recuerda que la explicacion completa esta en mi canal de YouTube:
 - [Canal YouTube](https://www.youtube.com/channel/UCzwHEOCbsZLjfELperJ6VeQ/videos)
-- [Video Explicativo](https://youtu.be/Hy3DAxgTSu0)
+- [Video Explicativo](https://youtu.be/ohQuCbidlNc)
 
 
 ### Recuerda que puedes contribuir a que siga desarrollando:
